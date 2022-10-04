@@ -1,0 +1,41 @@
+body {
+    color:rgb(26, 21, 87);
+    background-color:rgb(214, 160, 201);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: rgb(185, 10, 238);
+    text-decoration: none;
+}
+div img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(141, 5, 84);
+}
+.center {
+    text-align: center;
+}
+footer img{
+    width: 35px;
+    height: 35px;
+}
+footer{
+    display: flex;
+    font-size: 15px;
+    
+}
+footer a{
+    margin-top: 25px;
+    margin: 25px;
+    text-align: center;
+    color:rgb(42, 131, 233);
+}
+.contato{
+    color:rgb(42, 131, 233);
+    background-color:rgb(214, 160, 201);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.produtos{
+    margin-right: 50%;
+}
